@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/media/mamhoud/7ec5d104-ab7f-45f1-a837-a0a7718a2361/Python/next/TARS-Digital-Marketplace/src/app/layout\":[\"static/media/c9a5bc6a7c948fb0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
